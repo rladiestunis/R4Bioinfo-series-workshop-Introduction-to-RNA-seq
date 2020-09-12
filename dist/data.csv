@@ -19,11 +19,7 @@ Timestamp;First name;Last name;Sexe;Age;Address;Phone number;E-mail;Where are yo
 30/08/2020 05:56;Madhur;Parihar;Male;Between 31 and 40;Baltimore USA;;parihar.madhur@gmail.com;USA;None;None;Employed;Biology;Twitter;
 30/08/2020 06:02;Sadman;Sakib;Male;Between 20 and 30;G?ttingen, Germany;;m.sadman.sakib@gmail.com;Germany;Doctorate degree;University of G?ttingen;Studying;Biology;Twitter;
 30/08/2020 06:49;Josie;Gleeson;Female;Between 20 and 30;30 Royal Parade, Parkville, VIC, AUS;;josie.gleeson@student.unimelb.edu.au;AUS;Doctorate degree;University of Melbourne;Studying;Biology;Twitter;
-30/08/2020 07:05;Tamer;Ali;Male;Between 31 and 40;"Institute of Cardiovascular Regeneration,
-Centre for Molecular Medicine,
-Goethe University, Bldg 25B, Room 145A,
-Theodor-Stern-Kai 7
-60590 Frankfurt am Main";;Ali@med.uni-frankfurt.de;Egypt;Doctorate degree;Goethe university;postdoc;Biology;Twitter;
+30/08/2020 07:05;Tamer;Ali;Male;Between 31 and 40;"Institute of Cardiovascular Regeneration,Centre for Molecular Medicine,Goethe University, Bldg 25B, Room 145A,Theodor-Stern-Kai 760590 Frankfurt am Main";;Ali@med.uni-frankfurt.de;Egypt;Doctorate degree;Goethe university;postdoc;Biology;Twitter;
 30/08/2020 07:26;Manal;Alshehri;Female;Between 31 and 40;Riyadh, Saudi Arabia;96650110061;Manalalshehri@kacst.edu.sa;Saudi Arabia;Master's degree;None;Employed;R&D;LinkedIn;
 30/08/2020 07:45;Wisam;Tariq Saleem;Male;Between 31 and 40;University of Turku, Finland;+358 404730550;wisam.tariqsaleem@utu.fi;Finland;Master's degree;Turku university;Employed;Science, Engineering, Technology, & Mathematics;Twitter;
 30/08/2020 08:46;Amal;Boukteb;Female;Between 20 and 30;Aziz residence N?10, Manouba Tunsia;+216 22464234;amal.boukteb@fst.utm.tn;Tunisia;Doctorate degree;FST;Studying;Biology;Facebook;
@@ -67,9 +63,7 @@ Theodor-Stern-Kai 7
 01/09/2020 17:23;Nabiha;Salah;Female;Between 20 and 30;Sfax tunisia;21658858696;nabiha.salah96@gmail.com;Tunisia;Master's degree;FSS;Studying;Biology;A friend;
 01/09/2020 22:38;Mouaiz;Khdhiri;Male;Between 20 and 30;50 rue immame gazali cite khadra kasserine Tunisie;21640641123;mouaizkhdhiri@outlook.fr;Tunisia;Master's degree;inrs;Studying;Science, Engineering, Technology, & Mathematics;Facebook;
 02/09/2020 07:38;Maha;Mezghani;Female;More than 40;Campus universitaire tunis el manar;21698307357;maha.mezghani@fst.utm.tn;Tunisia;Doctorate degree;FST;Employed;Biology;Facebook;
-02/09/2020 09:56;Ghada;Bouguerra;Female;Between 31 and 40;"4 Rue Imam Sohnoun
-2010 Manouba
-Tunisia";21693027032;ghada.bouguerra@yahoo.fr;Tunisia;Doctorate degree;FMT;Employed;Biology;Facebook;
+02/09/2020 09:56;Ghada;Bouguerra;Female;Between 31 and 40;"4 Rue Imam Sohnoun 2010 Manouba Tunisia";21693027032;ghada.bouguerra@yahoo.fr;Tunisia;Doctorate degree;FMT;Employed;Biology;Facebook;
 02/09/2020 10:27;Salma;DJEBBI;Female;Between 31 and 40;Megrine ben arous, Tunisia;+216 99 21 90 76;salma.djebbi@fst.utm.tn;Tunisia;Post-doctorate;FST;Unemployed - Looking for work;Biology;A friend;
 02/09/2020 10:49;Sumit;Rai;Male;Between 31 and 40;Boston, MA;;sumit1409@gmail.com;USA;Post-doc;Harvard Medical School;Employed;Biology;Twitter;
 02/09/2020 11:05;Ikram;Belarouci;Female;Between 20 and 30;Babzouar Bt82A.alger;2.14E+15;ikram.belarouci@fst.utm.tn;Algeria;Doctorate degree;FST;Studying;Biology;Facebook;
