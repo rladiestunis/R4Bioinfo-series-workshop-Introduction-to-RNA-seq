@@ -24,9 +24,9 @@ library(readr)
 library(plotly)
 library(dplyr)
 library(stringr)
-library(wordcloud)
+library(wordcloud2)
 library(RColorBrewer)
-data <- read.csv("Attendee information - Introduction to RNA-seq.csv",sep=";")
+data <- read.csv("Attendee information - Introduction to RNA-seq.csv", sep = ";")
 ```
 Row
 -------------------------------------
@@ -47,8 +47,7 @@ plot_ly(DT, type = 'scatter', mode = 'lines+markers', x = DT$date, y = DT$n,
 ```{r}
 data %>% group_by(Age,Sexe) %>% summarise(n = n()) %>% 
   mutate(freq = round(n/sum(n),3), freq_text = scales::percent(freq, accuracy = 0.1)) %>% 
-plot_ly(x = ~Age,y=~n, color = ~Sexe,
-        texttemplate = '%{y}', textposition = 'outside',
+plot_ly(x = ~Age,y=~n, color = ~Sexe, texttemplate = '%{y}', textposition = 'outside',
   hoverinfo = "text",colors = c("#3182bd","#dd1c77"),
   text = ~paste(n, ': Number of participants',Sexe, 'whose age is', Age)) %>%
   add_bars() %>% layout(yaxis = list(title = 'Number', showgrid = TRUE, zeroline = TRUE),
@@ -69,7 +68,7 @@ data %>% group_by(Country) %>% summarise(n = n()) %>%
           hoverinfo = "text",
           marker = list(color = '#dd1c77'),
           text = ~paste(n, ': Number of participants')) %>%
-  add_bars() %>% layout(yaxis = list(title = 'Number', showgrid = TRUE, zeroline = TRUE),
+          add_bars() %>% layout(yaxis = list(title = 'Number', showgrid = TRUE, zeroline = TRUE),
                         xaxis = list(title = '', showgrid = TRUE, zeroline = TRUE),
                         font = list(family = 'Arial', size = 14, color = '#003366'))
 ```   
@@ -89,7 +88,7 @@ data %>% group_by(work_status) %>% summarise(n = n()) %>%
           hoverinfo = "text",
           marker = list(color = '#8856a7'),
           text = ~paste(n, ': Number of participants')) %>%
-  add_bars() %>% layout(yaxis = list(title = 'Number', showgrid = TRUE, zeroline = TRUE),
+          add_bars() %>% layout(yaxis = list(title = 'Number', showgrid = TRUE, zeroline = TRUE),
                         xaxis = list(title = '', showgrid = TRUE, zeroline = TRUE),
                         font = list(family = 'Arial', size = 14, color = '#003366'))
 
@@ -102,9 +101,6 @@ Row
 names(data)[13] <- "field"
 dt <- as.data.frame(table(data$field))
 dt <-dt[!(dt$Var1=="None"),]
-par(mar = rep(0, 4))
-#wordcloud(words = dt$Var1, freq = dt$Freq, min.freq = 1,random.order=FALSE, rot.per=0,colors=brewer.pal(20, #"Spectral"))
-library(wordcloud2)
 wordcloud2(data=dt, size = 0.95, color='random-dark', shape = 'pentagon')
 ```
 
@@ -120,7 +116,7 @@ data %>% group_by(event) %>% summarise(n = n()) %>%
           texttemplate = '%{y}', textposition = 'outside',
           hoverinfo = "text", marker = list(color = '#dd1c77'),
           text = ~paste(n, ': Number of participants')) %>%
-  add_bars() %>% layout(xaxis = list(title = '', showgrid = TRUE, zeroline = TRUE),
+          add_bars() %>% layout(xaxis = list(title = '', showgrid = TRUE, zeroline = TRUE),
                         yaxis = list(title = 'Number', showgrid = TRUE, zeroline = TRUE),
                         font = list(family = 'Arial', size = 14, color = '#003366'))
 ```
