@@ -26,7 +26,7 @@ library(dplyr)
 library(stringr)
 library(wordcloud2)
 library(RColorBrewer)
-data <- read.csv("Attendee information - Introduction to RNA-seq.csv", sep = ";")
+data <- read.csv("https://raw.githubusercontent.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-RNA-seq/master/dist/data.csv",sep = ",")
 ```
 Row
 -------------------------------------
