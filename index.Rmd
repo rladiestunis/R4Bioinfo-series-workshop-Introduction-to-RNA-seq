@@ -48,7 +48,7 @@ plot_ly(DT, type = 'scatter', mode = 'lines+markers', x = DT$date, y = DT$n,
 data %>% group_by(Age,Sexe) %>% summarise(n = n()) %>% 
   mutate(freq = round(n/sum(n),3), freq_text = scales::percent(freq, accuracy = 0.1)) %>% 
 plot_ly(x = ~Age,y=~n, color = ~Sexe, texttemplate = '%{y}', textposition = 'outside',
-  hoverinfo = "text",colors = c("#3182bd","#dd1c77"),
+  hoverinfo = "text",colors = c("#dd1c77","#3182bd"),
   text = ~paste(n, ': Number of participants',Sexe, 'whose age is', Age)) %>%
   add_bars() %>% layout(yaxis = list(title = 'Number', showgrid = TRUE, zeroline = TRUE),
          xaxis = list(title = 'Age', showgrid = TRUE, zeroline = TRUE),
