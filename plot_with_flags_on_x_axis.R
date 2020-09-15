@@ -2,7 +2,7 @@ library(readr)
 library(ggplot2)
 library(ggimage)
 library(here)
-data <- read.csv("Attendee information - Introduction to RNA-seq.csv",sep=";")
+data <- read.csv("https://raw.githubusercontent.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-RNA-seq/master/dist/data.csv", sep = ",")
 names(data)[9] <- "Country"
 dt <- data.frame(img = list.files(here::here('Flags'), full.names = TRUE),
                  country = as.data.frame(table(data$Country))[,1],
