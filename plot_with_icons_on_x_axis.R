@@ -3,7 +3,7 @@ library(stringr)
 library(ggplot2)
 library(ggimage)
 library(here)
-data <- read.csv("Attendee information - Introduction to RNA-seq.csv",sep=";")
+data <- read.csv("https://raw.githubusercontent.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-RNA-seq/master/dist/data.csv", sep = ",")
 names(data)[14] <- "event"
 data$event <- str_replace(data$event,"posted on r-ladies slack workspace","Slack")
 data$event <- str_replace(data$event,"Group R-ladies Tunis","Facebook")
