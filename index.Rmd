@@ -1,5 +1,5 @@
 ---
-title: "Analysis of the first 120 registrations for the workshop : Introduction to RNA-seq"
+title: "Analysis of the first 171 registrations for the workshop : Introduction to RNA-seq"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
@@ -26,14 +26,14 @@ library(dplyr)
 library(stringr)
 library(wordcloud2)
 library(RColorBrewer)
-data <- read.csv("https://raw.githubusercontent.com/rladiestunis/R4Bioinfo-series-workshop-Introduction-to-RNA-seq/master/dist/data.csv",sep = ",")
+data <- read.csv("dist/data.csv",sep = ",")
 ```
 Row
 -------------------------------------
     
 ### Evolution of daily registrations
 ```{r}
-DT <- data %>% mutate(date= as.Date(data$Timestamp, "%d/%m/%Y")) %>% group_by(date) %>% summarise(n = n())
+DT <- data %>% mutate(date= as.Date(data$Timestamp, "%m/%d/%Y")) %>% group_by(date) %>% summarise(n = n())
 plot_ly(DT, type = 'scatter', mode = 'lines+markers', x = DT$date, y = DT$n, 
         marker = list(color = '#8856a7',width=6),
         line = list(color = '#8856a7', width = 4), hoverinfo = "text",
@@ -101,7 +101,7 @@ Row
 names(data)[13] <- "field"
 dt <- as.data.frame(table(data$field))
 dt <-dt[!(dt$Var1=="None"),]
-wordcloud2(data=dt, size = 0.95, color='random-dark', shape = 'pentagon')
+wordcloud2(data=dt, size = 0.8, color='random-dark', shape = 'pentagon')
 ```
 
 ### How did they find out about our event ?
@@ -110,6 +110,15 @@ names(data)[14] <- "event"
 data$event <- str_replace(data$event,"posted on r-ladies slack workspace","Slack")
 data$event <- str_replace(data$event,"Group R-ladies Tunis","Facebook")
 data$event <- str_replace(data$event,"someone from work","A friend")
+data$event <- str_replace(data$event,"E-mail from H3bionet Consortium","E-mail")
+data$event <- str_replace(data$event,"Email","E-mail")
+data$event <- str_replace(data$event,"H3ABIONET","E-mail")
+data$event <- str_replace(data$event,"consort - H3ABioNet","E-mail")
+data$event <- str_replace(data$event,"Mail","E-mail")
+data$event <- str_replace(data$event,"E-mail","E-mail")
+data$event <- str_replace(data$event,"Mail","E-mail")
+data$event <- str_replace(data$event,"e-mail","E-mail")
+data$event <- str_replace(data$event,"email","E-mail")
 data %>% group_by(event) %>% summarise(n = n()) %>% 
   mutate(freq = round(n/sum(n),3), freq_text = scales::percent(freq, accuracy = 0.1)) %>%
   plot_ly(x = ~reorder(event,-n),y=~n,
