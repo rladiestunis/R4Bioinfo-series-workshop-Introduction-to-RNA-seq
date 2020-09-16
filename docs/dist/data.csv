@@ -1,121 +1,172 @@
-"Timestamp","First.name","Last.name","Sexe","Age","Address","Phone.number","E.mail","Where.are.you.from..","What.level.of.education.are.you.currently.completing..","What.school.are.you.currently.studying.at..","What.s.your.work.status..","What.field.do.you.work.in..","How.did.you.find.out.about.our.event..","Comments.if.needed"
-"29/08/2020 15:18","NA","NA","Male","Between 31 and 40","NA","NA","NA","Malaysia","Doctorate degree","School of Medical Sciences","Studying","Science, Engineering, Technology, & Mathematics","Facebook",""
-"29/08/2020 15:28","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESSAI","Studying","Transportation, Distribution & Logistics","Facebook",""
-"29/08/2020 20:11","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Post-graduate Doploma in Bioinfo","Suez canal university","Unemployed - Looking for work","Biology","LinkedIn",""
-"29/08/2020 20:28","NA","NA","Male","More than 40","NA","NA","NA","India","Master's degree","None","Self-employed/Freelance","Science, Engineering, Technology, & Mathematics","LinkedIn",""
-"29/08/2020 20:41","NA","NA","Male","Between 20 and 30","NA","NA","NA","Algeria","Doctorate degree","Enssea","Employed","Science, Engineering, Technology, & Mathematics","LinkedIn",""
-"29/08/2020 20:46","NA","NA","Male","Between 20 and 30","NA","NA","NA","Colombia","Engineering degree","Universdad del Norte","Studying","Science, Engineering, Technology, & Mathematics","Instagram",""
-"29/08/2020 21:26","NA","NA","Female","Between 31 and 40","NA","NA","NA","Turkey","Doctorate degree","BIRUNI ?ni","Employed","Science, Engineering, Technology, & Mathematics","Instagram",""
-"29/08/2020 22:10","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","Al-azhar university","Unemployed - Looking for work","Science, Engineering, Technology, & Mathematics","LinkedIn",""
-"29/08/2020 22:56","NA","NA","Male","Between 20 and 30","NA","NA","NA","Germany","Doctorate degree","Leibniz Institute","Employed","Public health","LinkedIn",""
-"29/08/2020 23:16","NA","NA","Male","Between 20 and 30","NA","NA","NA","Argentina","College degree","UNC","Studying","Biology","LinkedIn",""
-"29/08/2020 23:24","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Biology","Instagram",""
-"29/08/2020 23:32","NA","NA","Male","Between 31 and 40","NA","NA","NA","Malaysia","Doctorate degree","UPM","Studying","Biology","Twitter",""
-"30/08/2020 00:13","NA","NA","Female","Between 31 and 40","NA","NA","NA","Brazil","Doctorate degree","Ufpr","Employed","Education","Instagram",""
-"30/08/2020 04:14","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","Master's degree","USP","Employed","Science, Engineering, Technology, & Mathematics","Instagram",""
-"30/08/2020 04:21","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","Doctorate degree","USP","Studying","Biology","Instagram",""
-"30/08/2020 04:22","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","Doctorate degree","Universidade de S?o Paulo (USP)","Studying","Science, Engineering, Technology, & Mathematics","A friend",""
-"30/08/2020 04:45","NA","NA","Female","More than 40","NA","NA","NA","Argentina","Master's degree","UBA","Employed","Science, Engineering, Technology, & Mathematics","Twitter",""
-"30/08/2020 05:56","NA","NA","Male","Between 31 and 40","NA","NA","NA","USA","None","None","Employed","Biology","Twitter",""
-"30/08/2020 06:02","NA","NA","Male","Between 20 and 30","NA","NA","NA","Germany","Doctorate degree","University of G?ttingen","Studying","Biology","Twitter",""
-"30/08/2020 06:49","NA","NA","Female","Between 20 and 30","NA","NA","NA","AUS","Doctorate degree","University of Melbourne","Studying","Biology","Twitter",""
-"30/08/2020 07:05","NA","NA","Male","Between 31 and 40","NA","NA","NA","Egypt","Doctorate degree","Goethe university","postdoc","Biology","Twitter",""
-"30/08/2020 07:26","NA","NA","Female","Between 31 and 40","NA","NA","NA","Saudi Arabia","Master's degree","None","Employed","R&D","LinkedIn",""
-"30/08/2020 07:45","NA","NA","Male","Between 31 and 40","NA","NA","NA","Finland","Master's degree","Turku university","Employed","Science, Engineering, Technology, & Mathematics","Twitter",""
-"30/08/2020 08:46","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",""
-"30/08/2020 08:51","NA","NA","Female","Between 31 and 40","NA","NA","NA","Spain","Doctorate degree","Ucm","Unemployed - Looking for work","Biology","Twitter",""
-"30/08/2020 09:00","NA","NA","Male","Between 31 and 40","NA","NA","NA","India","Research Scientist [NPDF]","CSIR-IGIB","Studying","Science, Engineering, Technology, & Mathematics","Twitter",""
-"30/08/2020 09:19","NA","NA","Female","More than 40","NA","NA","NA","Algeria","Doctorate degree","Moumoud Mammri University of Tizi-Ouzou","Employed","Science, Engineering, Technology, & Mathematics","Facebook",""
-"30/08/2020 11:06","NA","NA","Male","Between 20 and 30","NA","NA","NA","Thailand","Doctorate degree","None","Studying","Dentistry","Twitter",""
-"30/08/2020 11:15","NA","NA","Male","Between 31 and 40","NA","NA","NA","Norway","Master's degree","Norwegian university of life Sciences","Studying","Biology","Twitter",""
-"30/08/2020 13:15","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",""
-"30/08/2020 14:00","NA","NA","Female","Between 20 and 30","NA","NA","NA","China","Master's degree","None","Studying","Biology","A friend",""
-"30/08/2020 14:33","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","Master's degree","Hospital Albert Einstein","Studying","Biology","Meetup",""
-"30/08/2020 14:40","NA","NA","Female","Between 31 and 40","NA","NA","NA","Spain","None","None","Employed","Biology","Twitter",""
-"30/08/2020 15:06","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",""
-"30/08/2020 15:07","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","Facult? de medcine de tunis","Studying","Biology","A friend",""
-"30/08/2020 15:58","NA","NA","Male","More than 40","NA","NA","NA","Korea","Doctorate degree","None","Employed","Biology","Twitter",""
-"30/08/2020 16:23","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",""
-"30/08/2020 18:13","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","ISA chott Mariem","PhD Student","Agronomic","Facebook",""
-"30/08/2020 19:25","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Neuroscience","Facebook",""
-"30/08/2020 19:38","NA","NA","Male","Between 31 and 40","NA","NA","NA","UK","Doctorate degree","None","Studying","Biology","Twitter",""
-"30/08/2020 21:03","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","ISBM","Studying","Biology","Facebook",""
-"30/08/2020 23:08","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","ISBM","Studying","Molecular biology","Facebook",""
-"31/08/2020 02:12","NA","NA","Male","Between 31 and 40","NA","NA","NA","Taiwan","Master's degree","None","Employed","Biology","Twitter",""
-"31/08/2020 03:08","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","College degree","ISBM","Studying","Biology","Facebook",""
-"31/08/2020 04:18","NA","NA","Male","Between 31 and 40","NA","NA","NA","USA","College degree","BCM","Employed","Biology","Twitter",""
-"31/08/2020 07:23","NA","NA","Male","Between 31 and 40","NA","NA","NA","Peru","Doctorate degree","None","Employed","Science, Engineering, Technology, & Mathematics","Facebook",""
-"31/08/2020 11:00","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESSAI","Employed","Consultancy","Facebook",""
-"31/08/2020 13:33","NA","NA","Male","Between 31 and 40","NA","NA","NA","France","None","None","Employed","Biology","Twitter",""
-"31/08/2020 15:04","NA","NA","Female","Between 20 and 30","NA","NA","NA","Spain","Master's degree","None","Employed","Biology","Twitter",""
-"31/08/2020 16:45","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESPRIT","Studying","data science","Group R-ladies Tunis",""
-"31/08/2020 17:53","NA","NA","Male","Between 20 and 30","NA","NA","NA","USA","None","None","Employed","Biology","Twitter",""
-"31/08/2020 18:24","NA","NA","Female","Between 31 and 40","NA","NA","NA","USA","Doctorate degree","None","Employed","Biology","Twitter",""
-"31/08/2020 18:37","NA","NA","Female","Between 31 and 40","NA","NA","NA","USA","Master's degree","None","Employed","Science, Engineering, Technology, & Mathematics","Twitter",""
-"01/09/2020 09:24","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","Fss","Studying","Biology","Facebook",""
-"01/09/2020 11:46","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","Faculty of scineces","Studying","Biology","Facebook",""
-"01/09/2020 13:36","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Diploma","None","Self-employed/Freelance","Biostatistics","LinkedIn",""
-"01/09/2020 14:19","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","High school diploma","INSAT","Studying","Biology","Facebook",""
-"01/09/2020 15:06","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FSS","Studying","Biology","Facebook",""
-"01/09/2020 15:38","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","Insat","Studying","Biology","A friend",""
-"01/09/2020 16:20","NA","NA","Male","Between 31 and 40","NA","NA","NA","Brazil","Doctorate degree","None","Unemployed - Looking for work","Agriculture","LinkedIn",""
-"01/09/2020 16:59","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","Doctorate degree","Aligarh Muslim University","Studying","Biology","LinkedIn",""
-"01/09/2020 17:23","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FSS","Studying","Biology","A friend",""
-"01/09/2020 22:38","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","inrs","Studying","Science, Engineering, Technology, & Mathematics","Facebook",""
-"02/09/2020 07:38","NA","NA","Female","More than 40","NA","NA","NA","Tunisia","Doctorate degree","FST","Employed","Biology","Facebook",""
-"02/09/2020 09:56","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","FMT","Employed","Biology","Facebook",""
-"02/09/2020 10:27","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Post-doctorate","FST","Unemployed - Looking for work","Biology","A friend",""
-"02/09/2020 10:49","NA","NA","Male","Between 31 and 40","NA","NA","NA","USA","Post-doc","Harvard Medical School","Employed","Biology","Twitter",""
-"02/09/2020 11:05","NA","NA","Female","Between 20 and 30","NA","NA","NA","Algeria","Doctorate degree","FST","Studying","Biology","Facebook",""
-"02/09/2020 15:03","NA","NA","Male","Between 31 and 40","NA","NA","NA","Tunisia","postdoc","None","Employed","Biology","Facebook",""
-"02/09/2020 15:34","NA","NA","Male","Between 31 and 40","NA","NA","NA","Chile","Doctorate degree","I-Mar","Employed","Biology","Twitter",""
-"02/09/2020 17:42","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","Al-azhar","Studying","Science, Engineering, Technology, & Mathematics","LinkedIn","thanks a buch"
-"03/09/2020 01:52","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","None","Studying","Biology","Facebook",""
-"03/09/2020 02:34","NA","NA","Female","Between 20 and 30","NA","NA","NA","UAE","Master's degree","UoS","Studying","Biology","LinkedIn",""
-"03/09/2020 08:56","NA","NA","Male","Between 20 and 30","NA","NA","NA","Spain","Doctorate degree","UPF","Employed","Biology","A friend",""
-"03/09/2020 12:13","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Biology","A friend",""
-"03/09/2020 12:21","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","INSAT","Studying","INDUSTRIAL BIOLOGY","Facebook",""
-"03/09/2020 12:53","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Phd","FST","Studying","Biology","Facebook",""
-"03/09/2020 13:14","NA","NA","Female","Between 20 and 30","NA","NA","NA","Germany","Master's degree","University of Applied Sciences Mittweida","Studying","Science, Engineering, Technology, & Mathematics","A friend",""
-"03/09/2020 14:19","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESSAI","Unemployed - Looking for work","Science, Engineering, Technology, & Mathematics","Facebook",""
-"03/09/2020 14:28","NA","NA","Female","Between 20 and 30","NA","NA","NA","USA","Doctorate degree","UCL","Studying","Biology","posted on r-ladies slack workspace",""
-"03/09/2020 17:17","NA","NA","Female","Between 20 and 30","NA","NA","NA","USA","Doctorate degree","University of Virginia","Studying","Science, Engineering, Technology, & Mathematics","Slack",""
-"03/09/2020 17:50","NA","NA","Male","Between 20 and 30","NA","NA","NA","Taiwan","Master's degree","None","Employed","Biology","A friend",""
-"03/09/2020 17:55","NA","NA","Female","Between 20 and 30","NA","NA","NA","Croatia","Doctorate degree","TUM","Unemployed - Looking for work","Biology","Slack",""
-"03/09/2020 18:11","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","College degree","FPHM","Studying","Pharmacy","Facebook",""
-"03/09/2020 20:42","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Enseignante","Fst","Employed","Biology","Facebook",""
-"03/09/2020 20:58","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","CBBC","Post-doc","Biology","Facebook",""
-"03/09/2020 21:00","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",""
-"03/09/2020 21:00","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","CBBC","Employed","Biology","Facebook",""
-"03/09/2020 21:22","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","Facebook",""
-"03/09/2020 21:40","NA","NA","Female","Between 31 and 40","NA","NA","NA","Algeria","Master's degree","Universit? mentouri Constantine","Employed","Biology","Facebook","/"
-"03/09/2020 22:03","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","ISSBAT","Studying","Biology","A friend",""
-"03/09/2020 22:16","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",""
-"04/09/2020 09:08","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Biology","A friend",""
-"04/09/2020 10:53","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","ENIS","Studying","Biology","Facebook",""
-"04/09/2020 11:19","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","Master's degree","None","Studying","Biology","Facebook",""
-"04/09/2020 12:49","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook","is there any attendance certificate in the end of the meetup?"
-"04/09/2020 15:17","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","Al-azhar","Studying","Science, Engineering, Technology, & Mathematics","LinkedIn","many thanks"
-"04/09/2020 17:15","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","Faculty of sciences of sfax","Studying","Biology","Facebook",""
-"05/09/2020 08:06","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","INSAT","Studying","Science, Engineering, Technology, & Mathematics","Facebook",""
-"05/09/2020 08:31","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Biology","Facebook",""
-"05/09/2020 10:54","NA","NA","Male","Between 31 and 40","NA","NA","NA","India","Doctorate degree","None","Employed","Biology","Facebook","Na"
-"05/09/2020 11:28","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","Facebook",""
-"05/09/2020 11:34","NA","NA","Female","Between 20 and 30","NA","NA","NA","Bangladesh","Master's degree","None","Studying","None","Facebook",""
-"05/09/2020 12:34","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",""
-"05/09/2020 15:58","NA","NA","Male","Between 31 and 40","NA","NA","NA","Taiwan","Master's degree","None","Employed","Biology","Facebook",""
-"06/09/2020 12:36","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Engineering degree","GUC","Studying","Science, Engineering, Technology, & Mathematics","Facebook",""
-"07/09/2020 06:39","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","Master's degree","College of Biotechnology, SVPUAT, India","Studying","Biotechnology","Facebook",""
-"07/09/2020 12:51","NA","NA","Male","More than 40","NA","NA","NA","USA","Doctorate degree","UofH","Employed","Human Capital","LinkedIn",""
-"07/09/2020 15:41","NA","NA","Female","Between 20 and 30","NA","NA","NA","India","Engineering degree","PES University","Studying","Science, Engineering, Technology, & Mathematics","LinkedIn",""
-"07/09/2020 17:11","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","Facebook",""
-"08/09/2020 13:25","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",""
-"08/09/2020 17:07","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","Master's degree","None","Employed","Biology","LinkedIn",""
-"08/09/2020 17:42","NA","NA","Male","Between 20 and 30","NA","NA","NA","Algeria","Master's degree","Batna2","Studying","Computer science","Facebook",""
-"09/09/2020 00:04","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","None","Employed","Healthcare","LinkedIn",""
-"09/09/2020 07:08","NA","NA","Female","Between 20 and 30","NA","NA","NA","Qatar","Master's degree","U of Birmingham","Studying","Biology","LinkedIn",""
-"09/09/2020 07:28","NA","NA","Female","More than 40","NA","NA","NA","Egypt","Doctorate degree","None","Employed","Biology","Facebook",""
-"09/09/2020 10:03","NA","NA","Female","Between 31 and 40","NA","NA","NA","Norway","Doctorate degree","University of Bergen","Studying","Science, Engineering, Technology, & Mathematics","someone from work",""
-"09/09/2020 11:02","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Master's degree","Ain Shams University","Employed","Science, Engineering, Technology, & Mathematics","LinkedIn",""
-"09/09/2020 11:45","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","None","None","Self-employed/Freelance","Biostatistics","A friend",""
-"09/09/2020 12:49","NA","NA","Female","More than 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","A friend",""
+"Timestamp","First name","Last name","Sexe","Age","Address","Phone number","E-mail","Where are you from ?","What level of education are you currently completing ?","What school are you currently studying at ?","What's your work status ?","What field do you work in ?","How did you find out about our event ?","Comments if needed"
+"8/29/2020 15:18:42","NA","NA","Male","Between 31 and 40","NA","NA","NA","Malaysia","Doctorate degree","School of Medical Sciences","Studying","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"8/29/2020 15:28:51","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESSAI","Studying","Transportation, Distribution & Logistics","Facebook",NA
+"8/29/2020 20:11:51","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Post-graduate Doploma in Bioinfo","Suez canal university","Unemployed - Looking for work","Biology","LinkedIn",NA
+"8/29/2020 20:28:54","NA","NA","Male","More than 40","NA","NA","NA","India","Master's degree","None","Self-employed/Freelance","Science, Engineering, Technology, & Mathematics","LinkedIn",NA
+"8/29/2020 20:41:38","NA","NA","Male","Between 20 and 30","NA","NA","NA","Algeria","Doctorate degree","Enssea","Employed","Science, Engineering, Technology, & Mathematics","LinkedIn",NA
+"8/29/2020 20:46:14","NA","NA","Male","Between 20 and 30","NA","NA","NA","Colombia","Engineering degree","Universdad del Norte","Studying","Science, Engineering, Technology, & Mathematics","Instagram",NA
+"8/29/2020 21:26:24","NA","NA","Female","Between 31 and 40","NA","NA","NA","Turkey","Doctorate degree","BIRUNI <dc>ni","Employed","Science, Engineering, Technology, & Mathematics","Instagram",NA
+"8/29/2020 22:10:40","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","Al-azhar university","Unemployed - Looking for work","Science, Engineering, Technology, & Mathematics","LinkedIn",NA
+"8/29/2020 22:56:05","NA","NA","Male","Between 20 and 30","NA","NA","NA","Germany","Doctorate degree","Leibniz Institute","Employed","Public health","LinkedIn",NA
+"8/29/2020 23:16:37","NA","NA","Male","Between 20 and 30","NA","NA","NA","Argentina","College degree","UNC","Studying","Biology","LinkedIn",NA
+"8/29/2020 23:24:17","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Biology","Instagram",NA
+"8/29/2020 23:32:13","NA","NA","Male","Between 31 and 40","NA","NA","NA","Malaysia","Doctorate degree","UPM","Studying","Biology","Twitter",NA
+"8/30/2020 0:13:33","NA","NA","Female","Between 31 and 40","NA","NA","NA","Brazil","Doctorate degree","Ufpr","Employed","Education","Instagram",NA
+"8/30/2020 4:14:37","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","Master's degree","USP","Employed","Science, Engineering, Technology, & Mathematics","Instagram",NA
+"8/30/2020 4:21:33","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","Doctorate degree","USP","Studying","Biology","Instagram",NA
+"8/30/2020 4:22:05","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","Doctorate degree","Universidade de S<e3>o Paulo (USP)","Studying","Science, Engineering, Technology, & Mathematics","A friend",NA
+"8/30/2020 4:45:27","NA","NA","Female","More than 40","NA","NA","NA","Argentina","Master's degree","UBA","Employed","Science, Engineering, Technology, & Mathematics","Twitter",NA
+"8/30/2020 5:56:25","NA","NA","Male","Between 31 and 40","NA","NA","NA","USA","None","None","Employed","Biology","Twitter",NA
+"8/30/2020 6:02:18","NA","NA","Male","Between 20 and 30","NA","NA","NA","Germany","Doctorate degree","University of G<f6>ttingen","Studying","Biology","Twitter",NA
+"8/30/2020 6:49:05","NA","NA","Female","Between 20 and 30","NA","NA","NA","AUS","Doctorate degree","University of Melbourne","Studying","Biology","Twitter",NA
+"8/30/2020 7:05:16","NA","NA","Male","Between 31 and 40","NA","NA","NA","Egypt","Doctorate degree","Goethe university","postdoc","Biology","Twitter",NA
+"8/30/2020 7:26:18","NA","NA","Female","Between 31 and 40","NA","NA","NA","Saudi Arabia","Master's degree","None","Employed","R&D","LinkedIn",NA
+"8/30/2020 7:45:34","NA","NA","Male","Between 31 and 40","NA","NA","NA","Finland","Master's degree","Turku university","Employed","Science, Engineering, Technology, & Mathematics","Twitter",NA
+"8/30/2020 8:46:56","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"8/30/2020 8:51:45","NA","NA","Female","Between 31 and 40","NA","NA","NA","Spain","Doctorate degree","Ucm","Unemployed - Looking for work","Biology","Twitter",NA
+"8/30/2020 9:00:06","NA","NA","Male","Between 31 and 40","NA","NA","NA","India","Research Scientist [NPDF]","CSIR-IGIB","Studying","Science, Engineering, Technology, & Mathematics","Twitter",NA
+"8/30/2020 9:19:05","NA","NA","Female","More than 40","NA","NA","NA","Algeria","Doctorate degree","Moumoud Mammri University of Tizi-Ouzou","Employed","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"8/30/2020 11:06:58","NA","NA","Male","Between 20 and 30","NA","NA","NA","Thailand","Doctorate degree","None","Studying","Dentistry","Twitter",NA
+"8/30/2020 11:15:03","NA","NA","Male","Between 31 and 40","NA","NA","NA","Norway","Master's degree","Norwegian university of life Sciences","Studying","Biology","Twitter",NA
+"8/30/2020 13:15:29","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"8/30/2020 14:00:15","NA","NA","Female","Between 20 and 30","NA","NA","NA","China","Master's degree","None","Studying","Biology","A friend",NA
+"8/30/2020 14:33:25","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","Master's degree","Hospital Albert Einstein","Studying","Biology","Meetup",NA
+"8/30/2020 14:40:37","NA","NA","Female","Between 31 and 40","NA","NA","NA","Spain","None","None","Employed","Biology","Twitter",NA
+"8/30/2020 15:06:35","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"8/30/2020 15:07:20","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","Facult<e9> de medcine de tunis","Studying","Biology","A friend",NA
+"8/30/2020 15:58:08","NA","NA","Male","More than 40","NA","NA","NA","Korea","Doctorate degree","None","Employed","Biology","Twitter",NA
+"8/30/2020 16:23:51","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"8/30/2020 18:13:03","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","ISA chott Mariem","PhD Student","Agronomic","Facebook",NA
+"8/30/2020 19:25:54","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Neuroscience","Facebook",NA
+"8/30/2020 19:38:44","NA","NA","Male","Between 31 and 40","NA","NA","NA","UK","Doctorate degree","None","Studying","Biology","Twitter",NA
+"8/30/2020 21:03:18","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","ISBM","Studying","Biology","Facebook",NA
+"8/30/2020 23:08:48","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","ISBM","Studying","Molecular biology","Facebook",NA
+"8/31/2020 2:12:13","NA","NA","Male","Between 31 and 40","NA","NA","NA","Taiwan","Master's degree","None","Employed","Biology","Twitter",NA
+"8/31/2020 3:08:59","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","College degree","ISBM","Studying","Biology","Facebook",NA
+"8/31/2020 4:18:18","NA","NA","Male","Between 31 and 40","NA","NA","NA","USA","College degree","BCM","Employed","Biology","Twitter",NA
+"8/31/2020 7:23:39","NA","NA","Male","Between 31 and 40","NA","NA","NA","Peru","Doctorate degree","None","Employed","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"8/31/2020 11:00:47","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESSAI","Employed","Consultancy","Facebook",NA
+"8/31/2020 13:33:51","NA","NA","Male","Between 31 and 40","NA","NA","NA","France","None","None","Employed","Biology","Twitter",NA
+"8/31/2020 15:04:05","NA","NA","Female","Between 20 and 30","NA","NA","NA","Spain","Master's degree","None","Employed","Biology","Twitter",NA
+"8/31/2020 16:45:42","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESPRIT","Studying","data science","Group R-ladies Tunis",NA
+"8/31/2020 17:53:04","NA","NA","Male","Between 20 and 30","NA","NA","NA","USA","None","None","Employed","Biology","Twitter",NA
+"8/31/2020 18:24:01","NA","NA","Female","Between 31 and 40","NA","NA","NA","USA","Doctorate degree","None","Employed","Biology","Twitter",NA
+"8/31/2020 18:37:34","NA","NA","Female","Between 31 and 40","NA","NA","NA","USA","Master's degree","None","Employed","Science, Engineering, Technology, & Mathematics","Twitter",NA
+"9/1/2020 9:24:04","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","Fss","Studying","Biology","Facebook",NA
+"9/1/2020 11:46:36","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","Faculty of scineces","Studying","Biology","Facebook",NA
+"9/1/2020 13:36:56","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Diploma","None","Self-employed/Freelance","Biostatistics","LinkedIn",NA
+"9/1/2020 14:19:05","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","High school diploma","INSAT","Studying","Biology","Facebook",NA
+"9/1/2020 15:06:45","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FSS","Studying","Biology","Facebook",NA
+"9/1/2020 15:38:38","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","Insat","Studying","Biology","A friend",NA
+"9/1/2020 16:20:27","NA","NA","Male","Between 31 and 40","NA","NA","NA","Brazil","Doctorate degree","None","Unemployed - Looking for work","Agriculture","LinkedIn",NA
+"9/1/2020 16:59:37","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","Doctorate degree","Aligarh Muslim University","Studying","Biology","LinkedIn",NA
+"9/1/2020 17:23:50","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FSS","Studying","Biology","A friend",NA
+"9/1/2020 22:38:04","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","inrs","Studying","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"9/2/2020 7:38:08","NA","NA","Female","More than 40","NA","NA","NA","Tunisia","Doctorate degree","FST","Employed","Biology","Facebook",NA
+"9/2/2020 9:56:10","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","FMT","Employed","Biology","Facebook",NA
+"9/2/2020 10:27:43","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Post-doctorate","FST","Unemployed - Looking for work","Biology","A friend",NA
+"9/2/2020 10:49:35","NA","NA","Male","Between 31 and 40","NA","NA","NA","USA","Post-doc","Harvard Medical School","Employed","Biology","Twitter",NA
+"9/2/2020 11:05:53","NA","NA","Female","Between 20 and 30","NA","NA","NA","Algeria","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"9/2/2020 15:03:58","NA","NA","Male","Between 31 and 40","NA","NA","NA","Tunisia","postdoc","None","Employed","Biology","Facebook",NA
+"9/2/2020 15:34:39","NA","NA","Male","Between 31 and 40","NA","NA","NA","Chile","Doctorate degree","I-Mar","Employed","Biology","Twitter",NA
+"9/2/2020 17:42:45","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","Al-azhar","Studying","Science, Engineering, Technology, & Mathematics","LinkedIn","thanks a buch"
+"9/3/2020 1:52:19","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","None","Studying","Biology","Facebook",NA
+"9/3/2020 2:34:40","NA","NA","Female","Between 20 and 30","NA","NA","NA","UAE","Master's degree","UoS","Studying","Biology","LinkedIn",NA
+"9/3/2020 8:56:36","NA","NA","Male","Between 20 and 30","NA","NA","NA","Spain","Doctorate degree","UPF","Employed","Biology","A friend",NA
+"9/3/2020 12:13:37","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Biology","A friend",NA
+"9/3/2020 12:21:25","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","INSAT","Studying","INDUSTRIAL BIOLOGY","Facebook",NA
+"9/3/2020 12:53:52","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Phd","FST","Studying","Biology","Facebook",NA
+"9/3/2020 13:14:36","NA","NA","Female","Between 20 and 30","NA","NA","NA","Germany","Master's degree","University of Applied Sciences Mittweida","Studying","Science, Engineering, Technology, & Mathematics","A friend",NA
+"9/3/2020 14:19:04","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESSAI","Unemployed - Looking for work","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"9/3/2020 14:28:43","NA","NA","Female","Between 20 and 30","NA","NA","NA","USA","Doctorate degree","UCL","Studying","Biology","posted on r-ladies slack workspace",NA
+"9/3/2020 17:17:06","NA","NA","Female","Between 20 and 30","NA","NA","NA","USA","Doctorate degree","University of Virginia","Studying","Science, Engineering, Technology, & Mathematics","Slack",NA
+"9/3/2020 17:50:13","NA","NA","Male","Between 20 and 30","NA","NA","NA","Taiwan","Master's degree","None","Employed","Biology","A friend",NA
+"9/3/2020 17:55:15","NA","NA","Female","Between 20 and 30","NA","NA","NA","Croatia","Doctorate degree","TUM","Unemployed - Looking for work","Biology","Slack",NA
+"9/3/2020 18:11:49","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","College degree","FPHM","Studying","Pharmacy","Facebook",NA
+"9/3/2020 20:42:58","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Enseignante","Fst","Employed","Biology","Facebook",NA
+"9/3/2020 20:58:14","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","CBBC","Post-doc","Biology","Facebook",NA
+"9/3/2020 21:00:02","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"9/3/2020 21:00:35","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","CBBC","Employed","Biology","Facebook",NA
+"9/3/2020 21:22:00","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","Facebook",NA
+"9/3/2020 21:40:13","NA","NA","Female","Between 31 and 40","NA","NA","NA","Algeria","Master's degree","Universit<e9> mentouri Constantine","Employed","Biology","Facebook","/"
+"9/3/2020 22:03:52","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","ISSBAT","Studying","Biology","A friend",NA
+"9/3/2020 22:16:47","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"9/4/2020 9:08:43","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Biology","A friend",NA
+"9/4/2020 10:53:02","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","ENIS","Studying","Biology","Facebook",NA
+"9/4/2020 11:19:10","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","Master's degree","None","Studying","Biology","Facebook",NA
+"9/4/2020 12:49:21","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook","is there any attendance certificate  in the end of the meetup?"
+"9/4/2020 15:17:00","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","Al-azhar","Studying","Science, Engineering, Technology, & Mathematics","LinkedIn","many thanks"
+"9/4/2020 17:15:14","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","Faculty of sciences of sfax","Studying","Biology","Facebook",NA
+"9/5/2020 8:06:00","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","INSAT","Studying","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"9/5/2020 8:31:22","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","FST","Studying","Biology","Facebook",NA
+"9/5/2020 10:54:05","NA","NA","Male","Between 31 and 40","NA","NA","NA","India","Doctorate degree","None","Employed","Biology","Facebook","Na"
+"9/5/2020 11:28:14","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","Facebook",NA
+"9/5/2020 11:34:22","NA","NA","Female","Between 20 and 30","NA","NA","NA","Bangladesh","Master's degree","None","Studying","None","Facebook",NA
+"9/5/2020 12:34:46","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"9/5/2020 15:58:10","NA","NA","Male","Between 31 and 40","NA","NA","NA","Taiwan","Master's degree","None","Employed","Biology","Facebook",NA
+"9/6/2020 12:36:46","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Engineering degree","GUC","Studying","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"9/7/2020 6:39:57","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","Master's degree","College of Biotechnology, SVPUAT, India","Studying","Biotechnology","Facebook",NA
+"9/7/2020 12:51:00","NA","NA","Male","More than 40","NA","NA","NA","USA","Doctorate degree","UofH","Employed","Human Capital","LinkedIn",NA
+"9/7/2020 15:41:42","NA","NA","Female","Between 20 and 30","NA","NA","NA","India","Engineering degree","PES University","Studying","Science, Engineering, Technology, & Mathematics","LinkedIn",NA
+"9/7/2020 17:11:20","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","Facebook",NA
+"9/8/2020 13:25:59","NA","NA","Male","Between 20 and 30","NA","NA","NA","Tunisia","Doctorate degree","FST","Studying","Biology","Facebook",NA
+"9/8/2020 17:07:45","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","Master's degree","None","Employed","Biology","LinkedIn",NA
+"9/8/2020 17:42:21","NA","NA","Male","Between 20 and 30","NA","NA","NA","Algeria","Master's degree","Batna2","Studying","Computer science","Facebook",NA
+"9/9/2020 0:04:48","NA","NA","Male","Between 20 and 30","NA","NA","NA","Egypt","College degree","None","Employed","Healthcare","LinkedIn",NA
+"9/9/2020 7:08:11","NA","NA","Female","Between 20 and 30","NA","NA","NA","Qatar","Master's degree","U of Birmingham","Studying","Biology","LinkedIn",NA
+"9/9/2020 7:28:25","NA","NA","Female","More than 40","NA","NA","NA","Egypt","Doctorate degree","None","Employed","Biology","Facebook",NA
+"9/9/2020 10:03:23","NA","NA","Female","Between 31 and 40","NA","NA","NA","Norway","Doctorate degree","University of Bergen","Studying","Science, Engineering, Technology, & Mathematics","someone from work",NA
+"9/9/2020 11:02:26","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Master's degree","Ain Shams University","Employed","Science, Engineering, Technology, & Mathematics","LinkedIn",NA
+"9/9/2020 11:45:20","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","None","None","Self-employed/Freelance","Biostatistics","A friend",NA
+"9/9/2020 12:49:39","NA","NA","Female","More than 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","A friend",NA
+"9/9/2020 22:51:46","NA","NA","Male","Between 20 and 30","NA","NA","NA","Ireland","Master's degree","None","Employed","Manufacturing","Meetup",NA
+"9/10/2020 0:14:55","NA","NA","Female","Between 31 and 40","NA","NA","NA","Mexico","Doctorate degree","IGC","Studying","Biology","Meetup",NA
+"9/10/2020 11:01:55","NA","NA","Female","Between 31 and 40","NA","NA","NA","Malaysia","None","None","Employed","Science, Engineering, Technology, & Mathematics","Twitter",NA
+"9/10/2020 17:29:51","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","Institut sup<e9>rieur de biotechnologie sidi thabet Tunisie","Studying","Biology","Facebook",NA
+"9/10/2020 18:50:25","NA","NA","Female","Between 31 and 40","NA","NA","NA","Iran","Doctorate degree","Iran","Studying","Biology","Twitter",NA
+"9/10/2020 19:23:53","NA","NA","Female","Between 20 and 30","NA","NA","NA","Pakistan","Doctorate degree","Zhejiang University China","Studying","Biology","Facebook",NA
+"9/10/2020 20:02:28","NA","NA","Male","Between 20 and 30","NA","NA","NA","china","Doctorate degree","Nanjing Agricultural University","Studying","Biology","Facebook",NA
+"9/10/2020 20:56:41","NA","NA","Male","Between 20 and 30","NA","NA","NA","Peru","Master's degree","None","Employed","Plant Science","Facebook",NA
+"9/10/2020 21:48:17","NA","NA","Male","Between 20 and 30","NA","NA","NA","Brazil","Doctorate degree","UFLA","Studying","Biology","Instagram",NA
+"9/10/2020 22:09:05","NA","NA","Female","Between 31 and 40","NA","NA","NA","Colombia","Doctorate degree","None","Employed","Science, Engineering, Technology, & Mathematics","Twitter",NA
+"9/10/2020 22:31:39","NA","NA","Male","More than 40","NA","NA","NA","USA","Doctorate degree","None","Self-employed/Freelance","Biology","Facebook",NA
+"9/11/2020 0:05:01","NA","NA","Female","Between 31 and 40","NA","NA","NA","Brazil","Doctorate degree","Ufpr","Employed","Education","Instagram",NA
+"9/11/2020 1:22:25","NA","NA","Male","Between 20 and 30","NA","NA","NA","Republic of Korea","College degree","None","Studying","Biology","A friend",NA
+"9/11/2020 5:47:18","NA","NA","Female","More than 40","NA","NA","NA","Morocco","Doctorate degree","None","Employed","Biology","Twitter",NA
+"9/11/2020 7:19:14","NA","NA","Male","Between 20 and 30","NA","NA","NA","Italy","Doctorate degree","None","Employed","Science, Engineering, Technology, & Mathematics","Twitter",NA
+"9/11/2020 9:59:33","NA","NA","Male","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","Universitf of Freiburg","Employed","Biology","Facebook",NA
+"9/11/2020 11:49:20","NA","NA","Male","More than 40","NA","NA","NA","Bangladesh","Doctorate degree","None","Employed","Biology","Facebook",NA
+"9/11/2020 13:23:18","NA","NA","Female","Between 20 and 30","NA","NA","NA","France","Doctorate degree","FST","Employed","Biology","Twitter",NA
+"9/11/2020 13:59:53","NA","NA","Female","Between 31 and 40","NA","NA","NA","USA","Master's degree","None","Employed","Science, Engineering, Technology, & Mathematics","LinkedIn",NA
+"9/11/2020 14:01:09","NA","NA","Female","Between 20 and 30","NA","NA","NA","Morocco","Doctorate degree","Faculty of sciences","Studying","Biology","H3ABIONET",NA
+"9/11/2020 14:01:38","NA","NA","Male","Between 31 and 40","NA","NA","NA","Nigeria","Doctorate degree","UI","Self-employed/Freelance","Science, Engineering, Technology, & Mathematics","A friend",NA
+"9/11/2020 14:22:37","NA","NA","Male","Between 20 and 30","NA","NA","NA","Brazil","Master's degree","University of S<e3>o Paulo","Studying","Biology","Twitter",NA
+"9/11/2020 14:27:33","NA","NA","Male","Between 31 and 40","NA","NA","NA","Malawi","None","None","Employed","Science, Engineering, Technology, & Mathematics","A friend",NA
+"9/11/2020 14:38:26","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","None","Institut Pasteur de Tunis (IPT)","Post doctoral Researcher","Biology","E-mail",NA
+"9/11/2020 15:41:00","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","Engineering degree","GLA University","Studying","Science, Engineering, Technology, & Mathematics","LinkedIn",NA
+"9/11/2020 16:04:48","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","None","None","Employed","Biology","e-mail",NA
+"9/11/2020 20:12:47","NA","NA","Female","More than 40","NA","NA","NA","Egypt","Doctorate degree","None","Employed","Biology","Email",NA
+"9/11/2020 21:36:12","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","None","None","Employed","Finance","Facebook",NA
+"9/11/2020 22:50:03","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","College degree","USP SP-BR","Studying","Biology","Instagram",NA
+"9/11/2020 23:11:48","NA","NA","Male","Between 31 and 40","NA","NA","NA","USA","Doctorate degree","None","Employed","Biology","Meetup",NA
+"9/12/2020 1:24:43","NA","NA","Female","Between 20 and 30","NA","NA","NA","Brazil","None","None","Employed","Biology","Meetup",NA
+"9/12/2020 1:47:56","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Master's degree","Istanbul Medipol University","Unemployed - Looking for work","Bioinformatics","LinkedIn",NA
+"9/12/2020 2:40:04","NA","NA","Female","Between 31 and 40","NA","NA","NA","USA","Doctorate degree","None","Employed","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"9/12/2020 2:45:15","NA","NA","Female","Between 20 and 30","NA","NA","NA","Egypt","Master's degree","Istanbul Medipol University","Unemployed - Looking for work","Bioinformatics","LinkedIn",NA
+"9/12/2020 5:19:53","NA","NA","Female","More than 40","NA","NA","NA","Mauritius","Doctorate degree","None","Employed","Biology","email","none"
+"9/12/2020 10:13:53","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","ESPRIT","Studying","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"9/12/2020 12:18:52","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Master's degree","ISBS","Studying","Biology","Facebook",NA
+"9/12/2020 12:19:58","NA","NA","Female","Between 20 and 30","NA","NA","NA","UAE","Master's degree","UoS","Studying","Biology","LinkedIn",NA
+"9/12/2020 23:27:39","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","None","None","Employed","Consulting","Meetup",NA
+"9/12/2020 23:42:38","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Science, Engineering, Technology, & Mathematics","Facebook",NA
+"9/13/2020 9:01:21","NA","NA","Male","Between 20 and 30","NA","NA","NA","India","Doctorate degree","NTU","Studying","Biology","LinkedIn",NA
+"9/13/2020 10:19:31","NA","NA","Female","Between 20 and 30","NA","NA","NA","Spain","Doctorate degree","UB","Employed","Biology","Facebook",NA
+"9/13/2020 16:00:18","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","consort - H3ABioNet",NA
+"9/13/2020 16:14:49","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","College degree","FPHM","Studying","Pharmacy","Facebook",NA
+"9/13/2020 16:15:55","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","Insat","Studying","Biology","A friend",NA
+"9/13/2020 17:14:19","NA","NA","Female","More than 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","Mail",NA
+"9/13/2020 19:27:29","NA","NA","Male","Between 20 and 30","NA","NA","NA","Kenya","College degree","Ku","Studying","Science, Engineering, Technology, & Mathematics","LinkedIn",NA
+"9/13/2020 21:53:39","NA","NA","Female","Between 31 and 40","NA","NA","NA","Tunisia","Doctorate degree","I m post-doctorant in Pasteur Institut","Unemployed - Looking for work","Biology","E-mail from H3bionet Consortium",NA
+"9/14/2020 9:32:26","NA","NA","Female","Between 20 and 30","NA","NA","NA","Nigeria","Master's degree","University of Ibadan","Studying","Biology","A friend",NA
+"9/15/2020 9:07:02","NA","NA","Female","More than 40","NA","NA","NA","Tunisia","Doctorate degree","None","Employed","Biology","Facebook",NA
+"9/15/2020 13:15:41","NA","NA","Female","Between 20 and 30","NA","NA","NA","Tunisia","Engineering degree","INSAT","Studying","Biology","Facebook",NA
