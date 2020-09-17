@@ -27,4 +27,4 @@ Those who fill out the form will receive an email shortly with instructions on h
 
 :point_right: [More details](https://www.meetup.com/rladies-tunis/events/272898020/)
 
-📌📌 Flexdashboard about the analysis of 171 registrations for the workshop 👉 [link](https://rladiestunis.github.io/R4Bioinfo-series-workshop-Introduction-to-RNA-seq/)
+📌📌 Flexdashboard about the analysis of the first 171 registrations for the workshop 👉 [link](https://rladiestunis.github.io/R4Bioinfo-series-workshop-Introduction-to-RNA-seq/)
