@@ -26,3 +26,5 @@ Dr. Love received his bachelor’s in mathematics in 2005 from Stanford Universi
 Those who fill out the form will receive an email shortly with instructions on how to join. Additionally you will get reminders right before the workshop with the link so you have it handy.
 
 :point_right: [More details](https://www.meetup.com/rladies-tunis/events/272898020/)
+
+📌📌 Flexdashboard about the analysis of 171 registrations for the workshop 👉 [link](https://rladiestunis.github.io/R4Bioinfo-series-workshop-Introduction-to-RNA-seq/)
